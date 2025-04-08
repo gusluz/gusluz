@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Gustavo Luz
-### 💻 Backend Developer
+## 💻 Backend Developer
 - Degree in Systems Analysis and Development ![Static Badge](https://img.shields.io/badge/IFMT-green?style=flat-square&link=https%3A%2F%2Fifmt.edu.br%2F)
 - MBA in Software Engineering ![Static Badge](https://img.shields.io/badge/USP-blue?style=flat-square&link=https%3A%2F%2Fmbauspesalq.com%2F)
 
